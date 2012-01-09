@@ -8,3 +8,4 @@ A list of all the Interactive Multimedia winter 2012 students’ GitHub username
 - Peter Fazekas [@fazekore](https://github.com/fazekore)
 - Etienne Gravelle [@etiennegravelle] (https://github.com/etiennegravelle) 
 - Mike Harley [@mharley87] (https://github.com/mharley87) 
+- Jiely Ho [@jielyh] (https://github.com/jielyh) 
