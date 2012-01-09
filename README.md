@@ -17,3 +17,4 @@ A list of all the Interactive Multimedia winter 2012 students’ GitHub username
 - Abhay Sharma [@abhaysharma] (https://github.com/abhaysharma)
 - Roger van Koughnett [@vank0026] (https://github.com/vank0026)
 - Deanna Wadden [@wadd0032] (https://github.com/wadd0032)
+- Pat Wilkins [@snikliwp] (https://github.com/snikliwp)
