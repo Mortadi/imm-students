@@ -13,3 +13,4 @@ A list of all the Interactive Multimedia winter 2012 students’ GitHub username
 - Tracy Karnabi [@tracyk] (https://github.com/tracyk)
 - Alison Kellar [@Kell0301] (https://github/com/Kell0301)
 - Amanda Marochko [@amandamarochko] (https://github.com/amandamarochko)
+- Mary Sarsfield [@msarsfield] (https://github.com/msarsfield)
