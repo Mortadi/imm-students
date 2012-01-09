@@ -4,6 +4,7 @@ A list of all the Interactive Multimedia winter 2012 students’ GitHub username
 
 - Thomas J Bradley [@thomasjbradley](https://github.com/thomasjbradley)
 - Jason Connell [@Connell_vs_life](https://github.com/conn0146)
+- Linda Chhor [@LindaChhor] (https://github.com/LindaChhor)
 - Trish Dupelle [@onetwoteexo](https://github.com/pixelles)
 - Peter Fazekas [@fazekore](https://github.com/fazekore)
 - Etienne Gravelle [@etiennegravelle] (https://github.com/etiennegravelle) 
