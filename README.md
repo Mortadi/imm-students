@@ -2,4 +2,5 @@
 
 A list of all the Interactive Multimedia winter 2012 students’ GitHub usernames and server paths.
 
-Thomas J Bradley [@thomasjbradley](https://github.com/thomasjbradley)
+- Thomas J Bradley [@thomasjbradley](https://github.com/thomasjbradley)
+- Jason Connell [@Connell_vs_life](https://github.com/conn0146)
