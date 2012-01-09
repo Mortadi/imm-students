@@ -15,3 +15,4 @@ A list of all the Interactive Multimedia winter 2012 students’ GitHub username
 - Amanda Marochko [@amandamarochko] (https://github.com/amandamarochko)
 - Mary Sarsfield [@msarsfield] (https://github.com/msarsfield)
 - Abhay Sharma [@abhaysharma] (https://github.com/abhaysharma)
+- Roger van Koughnett [@vank0026] (https://github.com/vank0026)
