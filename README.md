@@ -12,7 +12,7 @@ A list of all the Interactive Multimedia winter 2012 students’ GitHub username
 - Jen Harris [@JenLHarris] (https://github.com/JenLHarris)
 - Jiely Ho [@jielyh] (https://github.com/jielyh) 
 - Tracy Karnabi [@tracyk] (https://github.com/tracyk)
-- Alison Kellar [@Kell0301] (https://github/com/Kell0301)
+- Alison Kellar [@Kell0301] (https://github.com/Kell0301)
 - Amanda Marochko [@amandamarochko] (https://github.com/amandamarochko)
 - Mary Sarsfield [@msarsfield] (https://github.com/msarsfield)
 - Abhay Sharma [@abhaysharma] (https://github.com/abhaysharma)
