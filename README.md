@@ -10,3 +10,4 @@ A list of all the Interactive Multimedia winter 2012 students’ GitHub username
 - Mike Harley [@mharley87] (https://github.com/mharley87)
 - Jen Harris [@JenLHarris] (https://github.com/JenLHarris)
 - Jiely Ho [@jielyh] (https://github.com/jielyh) 
+- Tracy Karnabi [@tracyk] (https://github.com/tracyk)
