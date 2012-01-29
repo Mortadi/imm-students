@@ -3,10 +3,10 @@
 A list of all the Interactive Multimedia winter 2012 students’ GitHub usernames and server paths.
 
 - Thomas J Bradley [@thomasjbradley](https://github.com/thomasjbradley)
-- Petrus Chan [@unknownforce](https://github.com/unknownforce)[@edumedia](http://imm.edumedia.ca/chan0260/)
+- Petrus Chan [@unknownforce](https://github.com/unknownforce) [@edumedia](http://imm.edumedia.ca/chan0260/)
 - Linda Chhor [@LindaChhor](https://github.com/LindaChhor)
 - Jason Connell [@Connell_vs_life](https://github.com/conn0146)
-- Trish Dupelle [@pixelles](https://github.com/pixelles)[@edumedia](http://imm.edumedia.ca/dupe0012/)
+- Trish Dupelle [@pixelles](https://github.com/pixelles) [@edumedia](http://imm.edumedia.ca/dupe0012/)
 - Peter Fazekas [@fazekore](https://github.com/fazekore)
 - Priyanka Gite [@zohana](https://github.com/zohana) [@edumedia](http://imm.edumedia.ca/gite0002/)
 - Etienne Gravelle [@etiennegravelle](https://github.com/etiennegravelle) 
